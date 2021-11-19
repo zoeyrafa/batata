@@ -7,3 +7,4 @@ Contêm batatas
 Batata inglesa
 Batata doce roxa
 Batata baroa
+Batata gigante

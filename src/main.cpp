@@ -2,8 +2,11 @@
 
 int main(){
 
-    while(true){
-        std::cout << "infinito";
+    unsigned int contador = 0;
+
+    while(contador < 100){
+        std::cout << contador << std::endl;
+        contador++;
     }
     return 0;
 }
