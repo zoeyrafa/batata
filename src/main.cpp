@@ -2,8 +2,10 @@
 
 struct Teste {
     int uga(){
-        return 10;
+        return caverna;
     }
+
+    float pedra = 0;
 
     int caverna = 0;
 }
@@ -14,6 +16,7 @@ int main(){
     Teste a;
     a.caverna = 20;
     a.uga();
+    a.pedra = 20;
 
     unsigned int contador = 0;
 
