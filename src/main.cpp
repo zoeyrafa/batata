@@ -1,21 +1,17 @@
 #include <iostream>
-//LeticiaFreitas
+
 struct Teste {
     int uga(){
         return caverna;
-        //JaquelineChips
     }
 
     float pedra = 0;
 
     int caverna = 0;
 }
-
-//Nayami Casagrande da Silva
 // Thiago Alves da Silva Evangelista
 // Marcos Teixeira :D
 // Felipe_Castrl
-//leticia_Castro
 
 int main(){
 
@@ -25,6 +21,7 @@ int main(){
     a.pedra = 20;
 
     unsigned int contador = 0;
+	// Esse arquivo contem batatas, mas voce vai encontrar mais do que só batata.
 
     while(contador < 100){
         std::cout << contador << std::endl;
@@ -32,3 +29,5 @@ int main(){
     }
     return 0;
 }
+
+
