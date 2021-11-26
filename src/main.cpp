@@ -9,8 +9,10 @@ struct Teste {
 
     int caverna = 0;
 }
+// Thiago Alves da Silva Evangelista
+// Marcos Teixeira :D
+// Felipe_Castrl
 
-//Thiago Alves da Silva Evangelista
 int main(){
 
     Teste a;
@@ -26,3 +28,5 @@ int main(){
     }
     return 0;
 }
+
+
