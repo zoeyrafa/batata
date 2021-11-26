@@ -10,6 +10,8 @@ struct Teste {
 
     int caverna = 0;
 }
+
+//Nayami Casagrande da Silva
 // Thiago Alves da Silva Evangelista
 // Marcos Teixeira :D
 // Felipe_Castrl
