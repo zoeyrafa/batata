@@ -1,4 +1,5 @@
 #include <iostream>
+//ahhh
 //LeticiaFreitas
 struct Teste {
     int uga(){
@@ -24,7 +25,7 @@ int main(){
     a.uga();
     a.pedra = 20;
 //beterraba > batata
-//uga me salvando na biologia xd
+//uga me salvando na biologia xd aahhh
     unsigned int contador = 0;
 
     while(contador < 100){
