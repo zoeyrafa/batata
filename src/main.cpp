@@ -30,5 +30,6 @@ int main(){
         std::cout << contador << std::endl;
         contador++;
     }
+	cout << "Batata é gostosa de todas as formas possíveis. Deveri ser um elogio!" << endl;
     return 0;
 }
