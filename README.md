@@ -10,3 +10,5 @@ Batata baroa
 Batata gigante
 Batata uga
 Nayami Casagrande da SIlva
+Thiago Alves da Silva Evangelista
+leticia_castro
