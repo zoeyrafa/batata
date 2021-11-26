@@ -3,6 +3,7 @@
 struct Teste {
     int uga(){
         return caverna;
+        //JaquelineChips
     }
 
     float pedra = 0;
@@ -28,5 +29,3 @@ int main(){
     }
     return 0;
 }
-
-
