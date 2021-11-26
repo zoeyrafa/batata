@@ -3,6 +3,7 @@
 struct Teste {
     int uga(){
         return caverna;
+        //JaquelineChips
     }
 
     float pedra = 0;
@@ -11,6 +12,9 @@ struct Teste {
 }
 
 //Nayami Casagrande da Silva
+// Thiago Alves da Silva Evangelista
+// Marcos Teixeira :D
+// Felipe_Castrl
 
 int main(){
 
