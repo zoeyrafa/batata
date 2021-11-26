@@ -10,7 +10,9 @@ struct Teste {
 
     int caverna = 0;
 }
-
+// Thiago Alves da Silva Evangelista
+// Marcos Teixeira :D
+// Felipe_Castrl
 
 int main(){
 
