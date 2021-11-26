@@ -1,5 +1,10 @@
 #include <iostream>
 
+
+//ahhh
+//LeticiaFreitas
+
+
 struct Teste {
     int uga(){
         return caverna;
@@ -19,7 +24,8 @@ int main(){
     a.caverna = 20;
     a.uga();
     a.pedra = 20;
-
+//beterraba > batata
+//uga me salvando na biologia xd aahhh
     unsigned int contador = 0;
 	// Esse arquivo contem batatas, mas voce vai encontrar mais do que só batata.
 
