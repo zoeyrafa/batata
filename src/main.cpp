@@ -44,3 +44,5 @@ int main(){
 	cout << "Batata é gostosa de todas as formas possíveis. Deveri ser um elogio!" << endl;
     return 0;
 }
+//  Era uma vez um le�o que estava perdido na selva e que precisava de amigos....
+// Tim�o e Pumba
