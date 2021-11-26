@@ -1,8 +1,7 @@
 # batata
-Contêm batatas e alunos:
-Jaqueline Batata
+Contêm batatas
 
-Leticia
+
 
 ## Tipos de batata
 Batata inglesa
@@ -10,8 +9,5 @@ Batata doce roxa
 Batata baroa
 Batata gigante
 Batata uga
-Marcos Teixeira  
-FelipeCastrl  
-Nayami Casagrande da SIlva  
-Thiago Alves da Silva Evangelista  
-leticia_castro  
+Thiago Alves da Silva Evangelista
+leticia_castro
