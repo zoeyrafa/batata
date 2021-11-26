@@ -1,3 +1,11 @@
+
+
+
+//*****ATECAO******
+//*** Respeita a MAMACITA**************
+// Alo alo Brasil
+// Joelma Eterna Rainha
+
 #include <iostream>
 
 
