@@ -23,7 +23,8 @@ int main(){
     a.caverna = 20;
     a.uga();
     a.pedra = 20;
-
+//beterraba > batata
+//uga me salvando na biologia xd
     unsigned int contador = 0;
 
     while(contador < 100){
