@@ -9,3 +9,4 @@ Batata doce roxa
 Batata baroa
 Batata gigante
 Batata uga
+Thiago Alves da Silva Evangelista
